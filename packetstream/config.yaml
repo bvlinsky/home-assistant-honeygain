@@ -1,0 +1,15 @@
+name: "PacketStream"
+slug: "packetstream"
+description: "Earn passive income by sharing your unused bandwidth"
+init: false
+legacy: true
+arch:
+  - aarch64
+  - amd64
+  - i386
+version: "latest"
+image: packetstream/psclient
+options:
+  CID: ""
+schema:
+  CID: str
