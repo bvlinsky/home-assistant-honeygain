@@ -22,7 +22,12 @@ you directly contribute to future updates and maintenance.
 
 ## ⚙️ Installation Guide
 
-TODO
+1. In the Supervisor panel, click on the "Add-on Store" tab
+2. Click on the three dots menu (⋮) in the top right corner
+3. Select "Repositories"
+4. In the "Add repository" field, enter: `https://github.com/bvlinsky/home-assistant-passive-income`
+5. Click "Add"
+6. After adding the repository, new add-ons should appear in your add-on store
 
 ## 🖥️ Compatibility
 

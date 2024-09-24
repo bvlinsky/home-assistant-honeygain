@@ -10,6 +10,6 @@ arch:
 version: "latest"
 image: packetstream/psclient
 options:
-  CID: ""
+  CID: "6eJ7"
 schema:
   CID: str
