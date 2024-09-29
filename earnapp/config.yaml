@@ -1,0 +1,15 @@
+name: "EarnApp"
+slug: "earnapp"
+description: "Earn passive income while your devices rest"
+version: "lite-1.294.218"
+image: fazalfarhan01/earnapp
+init: false
+legacy: true
+arch:
+  - aarch64
+  - amd64
+  - armv7
+options:
+  EARNAPP_UUID: "sdk-node-XXXX"
+schema:
+  EARNAPP_UUID: str
