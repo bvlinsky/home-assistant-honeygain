@@ -1,0 +1,21 @@
+name: "Pawns.app"
+slug: "pawns"
+description: "Extra Income Made Easy"
+version: "0.33.0"
+init: false
+legacy: true
+arch:
+  - aarch64
+  - amd64
+  - armv7
+  - armhf
+options:
+  email: ""
+  password: ""
+  device: "HomeAssistant"
+  deviceId: "homeassistant"
+schema:
+  email: str
+  password: str
+  device: str
+  deviceId: str

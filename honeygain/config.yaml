@@ -1,0 +1,19 @@
+name: "Honeygain"
+slug: "honeygain"
+description: "A passive income app that lets you earn money from your unused internet bandwidth"
+version: "0.8.1"
+init: false
+legacy: true
+arch:
+  - aarch64
+  - amd64
+  - armv7
+  - i386
+options:
+  email: ""
+  password: ""
+  device: "HomeAssistant"
+schema:
+  email: str
+  password: str
+  device: str

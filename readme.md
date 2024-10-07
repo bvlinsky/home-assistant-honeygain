@@ -15,11 +15,11 @@ in setting up multiple passive income streams with minimal technical effort.
 Note! These are referral links, and by signing up through them,
 you directly contribute to future updates and maintenance.
 
-- [EarnApp](https://earnapp.com/i/4LLxaYrb) - supported
-- [Repocket](https://link.repocket.com/TLMq) - supported
-- [PacketStream](https://packetstream.io/?psr=6eJ7) - supported
-- [Honeygain](https://r.honeygain.me/BULINCBB47) - todo
-- [Pawns.app](https://pawns.app/?r=7359984) - todo
+- [Honeygain](https://r.honeygain.me/BULINCBB47)
+- [EarnApp](https://earnapp.com/i/4LLxaYrb)
+- [Pawns.app](https://pawns.app/?r=7359984)
+- [Repocket](https://link.repocket.com/TLMq)
+- [PacketStream](https://packetstream.io/?psr=6eJ7)
 
 ## ⚙️ Installation Guide
 
