@@ -7,10 +7,8 @@ arch:
   - aarch64
   - amd64
 version: "1.1.43"
-image: repocket/repocket
+image: ghcr.io/playit-cloud/playit-agent:0.15
 options:
-  RP_EMAIL: ""
-  RP_API_KEY: ""
+  SECRET_KEY: ""
 schema:
-  RP_EMAIL: str
-  RP_API_KEY: str
+  SECRET_KEY: str
