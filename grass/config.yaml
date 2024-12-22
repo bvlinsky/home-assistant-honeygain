@@ -1,7 +1,7 @@
 name: "Grass"
 slug: "grass"
 description: "Earn a stake in AI. Get rewarded for your unused internet"
-version: "1.0"
+version: "latest"
 init: false
 legacy: true
 image: mrcolorrain/grass-node
