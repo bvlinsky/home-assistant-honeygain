@@ -1,0 +1,14 @@
+name: "Traffmonetizer - arm64"
+slug: "traffmonetizer-arm64"
+description: "Share your internet connection and make money online"
+version: "1.0"
+init: false
+legacy: true
+arch:
+  - aarch64
+options:
+  token: ""
+  device-name: ""
+schema:
+  token: str
+  device-name: str
