@@ -7,7 +7,7 @@ arch:
   - aarch64
   - amd64
 version: "1.1.43"
-image: repocket/repocket
+image: ghcr.io/playit-cloud/playit-agent
 options:
   SECRET_KEY: ""
 schema:
