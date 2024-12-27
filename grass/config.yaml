@@ -1,0 +1,17 @@
+name: "Grass"
+slug: "grass"
+description: "Earn a stake in AI. Get rewarded for your unused internet"
+version: "latest"
+init: false
+legacy: true
+image: mrcolorrain/grass-node
+arch:
+  - amd64
+  - aarch64
+  - armv7
+options:
+  USER_EMAIL: ""
+  USER_PASSWORD: ""
+schema:
+  USER_EMAIL: str
+  USER_PASSWORD: str
