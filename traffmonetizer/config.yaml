@@ -10,7 +10,5 @@ arch:
   - armv7
 options:
   token: ""
-  device-name: ""
 schema:
   token: str
-  device-name: str

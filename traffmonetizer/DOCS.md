@@ -5,7 +5,7 @@ you directly contribute to future updates and maintenance.
 
 ## Quick Configuration Guide
 
-1. If you don't already have a Traffmonetizer account, head over to Traffmonetizer and sign up.
+1. If you don't already have a Traffmonetizer account, head over to [Traffmonetizer](https://traffmonetizer.com/?aff=1805975) and sign up.
 2. In Home Assistant, navigate to "Supervisor" > "Add-on Store" and search for the Traffmonetizer add-on. Once found, click on it and go to the "Configuration" tab.
 3. In your Traffmonetizer account, you will need your token to link your device.
 4. Set the name of the device.
