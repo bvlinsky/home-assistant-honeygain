@@ -12,10 +12,10 @@ arch:
 options:
   email: ""
   password: ""
-  device: "HomeAssistant"
+  deviceName: "HomeAssistant"
   deviceId: "homeassistant"
 schema:
   email: str
   password: str
-  device: str
+  deviceName: str
   deviceId: str
