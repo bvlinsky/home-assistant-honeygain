@@ -1,0 +1,23 @@
+name: "Bitping"
+slug: "bitping"
+description: "Earn money with your spare internet"
+version: "latest"
+init: false
+legacy: true
+image: bitping/bitpingd
+arch:
+  - amd64
+  - aarch64
+  - armv7
+options:
+  BITPING_EMAIL: ""
+  BITPING_PASSWORD: ""
+  BITPING_MFA: ""
+schema:
+  BITPING_EMAIL: str
+  BITPING_PASSWORD: str
+  BITPING_MFA: str?
+map:
+  - type: addon_config
+    read_only: false
+    path: /root/.bitpingd
